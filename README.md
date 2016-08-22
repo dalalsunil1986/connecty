@@ -47,4 +47,15 @@ $ npm install -g bower
   Then open a browser and go to:
 
     http://localhost:3000
+    
+
+  Api Access 
+  
+   http://localhost:3000/api
+
+   http://localhost:3000/api/users  
+
+   http://localhost:3000/api/contacts
+  
+  
 
