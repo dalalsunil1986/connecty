@@ -1,0 +1,23 @@
+{
+  "name": "connecty",
+  "description": "MEAN(MongoDB | Express | AngulerJS | NodeJS) Stack Contact Management App",
+  "version": "0.0.1",
+  "private": false,
+  "author": "https://github.com/prathapgivantha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prathapgivantha/connecty.git"
+  },
+   "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    },
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.13.4",
+    "mongoose": "~4.5.9",
+    "body-parser": "~1.15.2",
+    "bcrypt-nodejs": "~0.0.3"
+  }
+}
