@@ -51,15 +51,16 @@ $ npm install -g bower
 
   Api Access 
   
-
     http://localhost:3000/api
     
  
-  Acccess users 
+  Acccess users
+  
     http://localhost:3000/api/users
     
 
-  Access contacts 
+  Access contacts
+  
     http://localhost:3000/api/contacts
     
   
