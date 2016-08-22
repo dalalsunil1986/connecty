@@ -1,5 +1,7 @@
 # Connecty
 
+[![Build Status](https://travis-ci.org/prathapgivantha/connecty.svg?branch=master)](https://travis-ci.org/optimizely/oui-icons)
+
 MEAN(MongoDB | Express | AngulerJS | NodeJS) Stack Contact Management App
 
 # MEAN Stack
