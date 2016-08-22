@@ -52,10 +52,13 @@ $ npm install -g bower
   Api Access 
   
    http://localhost:3000/api
+   
 
    http://localhost:3000/api/users  
+   
 
    http://localhost:3000/api/contacts
+   
   
   
 
